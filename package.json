@@ -1,0 +1,8 @@
+{
+  "name": "npmTools",
+  "version": "1.0.0",
+  "description": "tools",
+  "main": "index.js",
+  "author": "qianhui",
+  "license": "MIT"
+}
